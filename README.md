@@ -325,7 +325,7 @@ SELECT * FROM items;
 
 ---
 
-# Task 4. Bind mounts
+# 📝 Task 4. Bind mounts
 
 Vamos a ver ahora un ejemplo práctico del otro método de persistencia que nos ofrece Docker, mapeando una carpeta de la máquina host a una del contenedor.
 
@@ -397,7 +397,7 @@ Recargamos la página en el navegador y vemos que se actualiza la página.
 
 ---
 
-# 5. Auditando volúmenes (opcional)
+# 📝 Task 5. Auditando volúmenes (opcional)
 
 ### 🔍 Investiga
 
